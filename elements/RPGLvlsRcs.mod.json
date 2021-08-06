@@ -1,0 +1,11 @@
+{
+  "_fv": 18,
+  "_type": "tab",
+  "definition": {
+    "name": "RPG Levels Races",
+    "icon": {
+      "value": "CUSTOM:MagicDust"
+    },
+    "showSearch": true
+  }
+}

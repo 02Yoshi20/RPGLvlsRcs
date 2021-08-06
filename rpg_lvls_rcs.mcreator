@@ -1,0 +1,139 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "MagicGeode",
+      "type": "block",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "magic_geode"
+    },
+    {
+      "name": "MagicCrystal",
+      "type": "item",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "magic_crystal"
+    },
+    {
+      "name": "MagiCrystalSmelting",
+      "type": "recipe",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "magi_crystal_smelting"
+    },
+    {
+      "name": "LootMagicGeode",
+      "type": "loottable",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "loot_magic_geode"
+    },
+    {
+      "name": "MagicDust",
+      "type": "food",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "magic_dust"
+    },
+    {
+      "name": "MagicDustRecipe",
+      "type": "recipe",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "magic_dust_recipe"
+    },
+    {
+      "name": "MagicDustFoodEaten",
+      "type": "procedure",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "magic_dust_food_eaten",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "RPGLvlsRcs",
+      "type": "tab",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rpg_lvls_rcs"
+    },
+    {
+      "name": "MagicWand",
+      "type": "tool",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "magic_wand"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.rpg_lvls_rcs.magic_crystal": "Magic Crystal",
+      "itemGroup.tabrpg_lvls_rcs": "RPG Levels Races",
+      "block.rpg_lvls_rcs.magic_geode": "Magic Geode",
+      "item.rpg_lvls_rcs.magic_wand": "Magic Wand",
+      "item.rpg_lvls_rcs.magic_dust": "Magic Dust"
+    },
+    "es_es": {
+      "item.rpg_lvls_rcs.magic_crystal": "Cristal Mágico",
+      "itemGroup.tabrpg_lvls_rcs": "RPG Levels Races",
+      "block.rpg_lvls_rcs.magic_geode": "Geoda Mágica",
+      "item.rpg_lvls_rcs.magic_wand": "Varita Mágica",
+      "item.rpg_lvls_rcs.magic_dust": "Polvo Mágico"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "rpg_lvls_rcs",
+    "modName": "RPG_Lvls_Rcs",
+    "version": "1.0.0",
+    "author": "user, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.5",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.yoshi.rpglvlsrcs",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100118117
+}

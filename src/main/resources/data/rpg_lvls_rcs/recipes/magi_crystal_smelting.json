@@ -1,0 +1,12 @@
+{
+  "group": "rpg_lvls_rcs",
+  "type": "minecraft:smelting",
+  "experience": 1,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "rpg_lvls_rcs:magic_geode"
+  },
+  "result": {
+    "item": "rpg_lvls_rcs:magic_crystal"
+  }
+}

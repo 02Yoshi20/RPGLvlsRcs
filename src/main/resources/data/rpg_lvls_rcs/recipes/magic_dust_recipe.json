@@ -1,0 +1,13 @@
+{
+  "group": "rpg_lvls_rcs",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "rpg_lvls_rcs:magic_crystal"
+    }
+  ],
+  "result": {
+    "item": "rpg_lvls_rcs:magic_dust",
+    "count": 2
+  }
+}
