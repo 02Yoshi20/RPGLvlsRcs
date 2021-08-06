@@ -1,0 +1,42 @@
+{
+  "group": "rpg_lvls_rcs",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "rpg_lvls_rcs:magic_crystal"
+    },
+    "1": {
+      "item": "rpg_lvls_rcs:magic_crystal"
+    },
+    "2": {
+      "item": "rpg_lvls_rcs:magic_crystal"
+    },
+    "3": {
+      "item": "rpg_lvls_rcs:magic_crystal"
+    },
+    "4": {
+      "item": "rpg_lvls_rcs:infused_dust"
+    },
+    "5": {
+      "item": "rpg_lvls_rcs:magic_crystal"
+    },
+    "6": {
+      "item": "rpg_lvls_rcs:magic_crystal"
+    },
+    "7": {
+      "item": "rpg_lvls_rcs:magic_crystal"
+    },
+    "8": {
+      "item": "rpg_lvls_rcs:magic_crystal"
+    }
+  },
+  "result": {
+    "item": "rpg_lvls_rcs:magic_ball",
+    "count": 1
+  }
+}

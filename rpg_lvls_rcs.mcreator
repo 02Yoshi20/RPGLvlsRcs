@@ -111,6 +111,33 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "magic_ball"
+    },
+    {
+      "name": "InfusedDust",
+      "type": "item",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "infused_dust"
+    },
+    {
+      "name": "MagicBallRecipe",
+      "type": "recipe",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "magic_ball_recipe"
+    },
+    {
+      "name": "InfusedDustRecipe",
+      "type": "recipe",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "infused_dust_recipe"
     }
   ],
   "variable_elements": [],
@@ -120,6 +147,7 @@
       "item.rpg_lvls_rcs.magic_crystal": "Magic Crystal",
       "itemGroup.tabrpg_lvls_rcs": "RPG Levels Races",
       "block.rpg_lvls_rcs.magic_geode": "Magic Geode",
+      "item.rpg_lvls_rcs.infused_dust": "Infused Dust",
       "item.rpg_lvls_rcs.magic_wand": "Magic Wand",
       "item.rpg_lvls_rcs.magic_dust": "Magic Dust",
       "item.rpg_lvls_rcs.magic_ball": "Magic Ball"
@@ -128,6 +156,7 @@
       "item.rpg_lvls_rcs.magic_crystal": "Cristal Mágico",
       "itemGroup.tabrpg_lvls_rcs": "RPG Levels Races",
       "block.rpg_lvls_rcs.magic_geode": "Geoda Mágica",
+      "item.rpg_lvls_rcs.infused_dust": "Infused Dust",
       "item.rpg_lvls_rcs.magic_wand": "Varita Mágica",
       "item.rpg_lvls_rcs.magic_dust": "Polvo Mágico",
       "item.rpg_lvls_rcs.magic_ball": "Bola Mágica"

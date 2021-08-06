@@ -1,0 +1,22 @@
+{
+  "group": "rpg_lvls_rcs",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "rpg_lvls_rcs:magic_dust"
+    },
+    {
+      "item": "minecraft:blaze_powder"
+    },
+    {
+      "item": "minecraft:diamond"
+    },
+    {
+      "item": "rpg_lvls_rcs:magic_dust"
+    }
+  ],
+  "result": {
+    "item": "rpg_lvls_rcs:infused_dust",
+    "count": 1
+  }
+}
