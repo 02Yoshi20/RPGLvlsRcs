@@ -102,6 +102,15 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "magic_wand_recipe"
+    },
+    {
+      "name": "MagicBall",
+      "type": "tool",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "magic_ball"
     }
   ],
   "variable_elements": [],
@@ -112,14 +121,16 @@
       "itemGroup.tabrpg_lvls_rcs": "RPG Levels Races",
       "block.rpg_lvls_rcs.magic_geode": "Magic Geode",
       "item.rpg_lvls_rcs.magic_wand": "Magic Wand",
-      "item.rpg_lvls_rcs.magic_dust": "Magic Dust"
+      "item.rpg_lvls_rcs.magic_dust": "Magic Dust",
+      "item.rpg_lvls_rcs.magic_ball": "Magic Ball"
     },
     "es_es": {
       "item.rpg_lvls_rcs.magic_crystal": "Cristal Mágico",
       "itemGroup.tabrpg_lvls_rcs": "RPG Levels Races",
       "block.rpg_lvls_rcs.magic_geode": "Geoda Mágica",
       "item.rpg_lvls_rcs.magic_wand": "Varita Mágica",
-      "item.rpg_lvls_rcs.magic_dust": "Polvo Mágico"
+      "item.rpg_lvls_rcs.magic_dust": "Polvo Mágico",
+      "item.rpg_lvls_rcs.magic_ball": "Bola Mágica"
     }
   },
   "foldersRoot": {

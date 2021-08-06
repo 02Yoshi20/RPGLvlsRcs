@@ -3,5 +3,6 @@
   "itemGroup.tabrpg_lvls_rcs": "RPG Levels Races",
   "block.rpg_lvls_rcs.magic_geode": "Geoda Mágica",
   "item.rpg_lvls_rcs.magic_wand": "Varita Mágica",
-  "item.rpg_lvls_rcs.magic_dust": "Polvo Mágico"
+  "item.rpg_lvls_rcs.magic_dust": "Polvo Mágico",
+  "item.rpg_lvls_rcs.magic_ball": "Bola Mágica"
 }

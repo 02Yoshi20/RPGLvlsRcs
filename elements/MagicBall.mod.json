@@ -1,0 +1,31 @@
+{
+  "_fv": 18,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "magic_ball",
+    "customModelName": "Normal",
+    "name": "Magic Ball",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:RPGLvlsRcs"
+    },
+    "toolType": "Special",
+    "harvestLevel": 0,
+    "efficiency": 0.0,
+    "attackSpeed": 0.0,
+    "enchantability": 2,
+    "damageVsEntity": 4.0,
+    "usageCount": 10000,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:MagicCrystal"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}
