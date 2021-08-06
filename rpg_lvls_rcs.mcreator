@@ -93,6 +93,15 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "magic_wand"
+    },
+    {
+      "name": "MagicWandRecipe",
+      "type": "recipe",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "magic_wand_recipe"
     }
   ],
   "variable_elements": [],

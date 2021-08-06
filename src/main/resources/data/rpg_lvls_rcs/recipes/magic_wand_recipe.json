@@ -1,0 +1,24 @@
+{
+  "group": "rpg_lvls_rcs",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "  2",
+    " 4 ",
+    "6  "
+  ],
+  "key": {
+    "2": {
+      "item": "rpg_lvls_rcs:magic_dust"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "6": {
+      "item": "minecraft:paper"
+    }
+  },
+  "result": {
+    "item": "rpg_lvls_rcs:magic_wand",
+    "count": 1
+  }
+}
